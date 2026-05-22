@@ -1,0 +1,22 @@
+body {
+    background-color: #0f172a; /* Deep slate blue-gray */
+    font-family: 'Inter', system-ui, -apple-system, sans-serif; /* Cleaner, modern font stack */
+    color: #cbd5e1; /* Soft off-white for body text (high contrast, low strain) */
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+h1 {
+    color: #32af7d; /* Kept your green, but now it actually stands out */
+    font-size: 3rem; /* Scalable units (48px) */
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    margin-bottom: 1.5rem;
+}
+
+p {
+    font-size: 1.25rem; /* 20px */
+    line-height: 1.75; /* Slightly more breathing room */
+    opacity: 0.9;
+}
